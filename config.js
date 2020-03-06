@@ -17,8 +17,8 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
-        //"心爱的小可爱": "./imgs/tongnian.jpg",
+        //"心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的小可爱": "./imgs/tongnian.jpg",
         //"心爱的小可爱": "./imgs/yunnan.jpg",
         //"心爱的小可爱": "./imgs/riben.jpg",
         //"心爱的小可爱": "./imgs/haibian.jpg",
