@@ -18,7 +18,7 @@ var config = {
      */
     imgs: {
         //"心爱的小可爱": "./imgs/xiaokeai.png",
-        "送给我": "./imgs/tongnian.jpg",
+        "祝你生日快乐吖": "./imgs/tongnian.jpg",
         //"心爱的小可爱": "./imgs/yunnan.jpg",
         //"心爱的小可爱": "./imgs/riben.jpg",
         //"心爱的小可爱": "./imgs/haibian.jpg",
