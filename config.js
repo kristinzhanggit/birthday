@@ -6,6 +6,7 @@ var config = {
         "的好朋友",  // 同上...
         "今天是你的生日",
         "祝你生日快乐吖",
+        "开开心心撸你的猫",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -17,12 +18,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        //"心爱的小可爱": "./imgs/xiaokeai.png",
+        "送给我": "./imgs/yunnan.jpg",
+        "的好朋友": "./imgs/riben.jpg",
+        "今天是你的生日": "./imgs/haibian.jpg",
         "祝你生日快乐吖": "./imgs/tongnian.jpg",
-        //"心爱的小可爱": "./imgs/yunnan.jpg",
-        //"心爱的小可爱": "./imgs/riben.jpg",
-        //"心爱的小可爱": "./imgs/haibian.jpg",
-        //"今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/mao.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
