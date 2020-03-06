@@ -22,7 +22,7 @@ var config = {
         "的好朋友": "./imgs/riben.jpg",
         "今天是你的生日": "./imgs/haibian.jpg",
         "祝你生日快乐吖": "./imgs/tongnian.jpg",
-        "今天是你的生日": "./imgs/mao.jpg",
+        "开开心心撸你的猫": "./imgs/mao.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
